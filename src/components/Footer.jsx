@@ -27,16 +27,6 @@ const Footer = () => {
                   <li><i className="bx bx-chevron-right" /> <Link href="/contact" >Contact Us</Link></li>
                 </ul>
               </div>
-              {/* <div className="col-lg-3 col-md-6 footer-links"> 
-                <h4>Our Services</h4>
-                <ul>
-                  <li><i className="bx bx-chevron-right" /> <link href="/workshops">Workshops</link></li>
-                  <li><i className="bx bx-chevron-right" /> <link href="/contact" >Consultation</link></li>
-                  <li><i className="bx bx-chevron-right" /> <link href="/contact" >Corporate Training</link></li>
-                  <li><i className="bx bx-chevron-right" /> <link href="/contact" >In-House Training</link></li>
-                  <li><i className="bx bx-chevron-right" /> <link href="/contact" >Certification</link></li>
-                </ul>
-              </div> */}
               <div className="col-lg-4 col-md-6 footer-newsletter" style={{marginLeft: 'auto'}}>
                 <h4>Join Our Newsletter</h4>
                 <p>Join the community to learn more and support</p>

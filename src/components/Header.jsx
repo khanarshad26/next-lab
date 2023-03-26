@@ -22,7 +22,7 @@ const Header = () => {
           {/* <Link href="/" className="logo me-auto"> */}
           {/* <h1 className="logo me-auto">ElectrogenLabs</h1>  */}
             <div className="logo me-auto" style={{position: 'relative'}}>
-            <Link href="/"><Image src="/assets/img/ElectrogenLab.png" alt="" width='250px' height='50px'/></Link>
+            <Link href="/"><Image src="/assets/img/ElectrogenLab.png" alt="" width='250' height='50'/></Link>
             </div>
           {/* </Link> */}
           <nav id="navbar" className="navbar">

@@ -14,7 +14,7 @@ const AvatarDescription = () => {
         <div id="comment-1" style={{width: '25rem'}} className="comment">
           <div className="d-flex">
             <div className="comment-img">
-              <Image style={{borderRadius: '60px', marginRight: '30px'}} src='/assets/img/user.png' alt="" width="60" height="60" />
+              <Image style={{borderRadius: '60px', marginRight: '30px'}} src='/assets/img/logos/user.png' alt="" width="60" height="60" />
             </div>
             <div>
               <h5 style={{marginBottom: '0px', marginTop: '8px'}}>
